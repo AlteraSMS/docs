@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "AlteraSMS Documentation",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#14b8a6",
+    "light": "#0d9488",
+    "dark": "#2dd4bf"
   },
   "favicon": "https://alterasms.io/altera_dark.png",
   "navigation": {
