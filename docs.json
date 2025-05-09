@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "almond",
-  "name": "Mint Starter Kit",
+  "theme": "mint",
+  "name": "AlteraSMS Documentation",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "https://alterasms.io/altera_dark.png",
   "navigation": {
     "tabs": [
       {
@@ -59,44 +59,39 @@
       "anchors": [
         {
           "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "href": "https://docs.alterasms.io",
           "icon": "book-open-cover"
         },
         {
           "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "href": "https://discord.gg/ku8dp8cdSs",
+          "icon": "discord"
         }
       ]
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "https://alterasms.io/altera_light.png",
+    "dark": "https://alterasms.io/altera_dark.png"
   },
   "navbar": {
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:support@alterasms.io"
       }
     ],
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "href": "https://dash.alterasms.io"
     }
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "telegram": "https://t.me/alterasms",
+      "discord": "https://discord.gg/ku8dp8cdSs",
+      "github": "https://github.com/alterasms"
     }
   }
 }
